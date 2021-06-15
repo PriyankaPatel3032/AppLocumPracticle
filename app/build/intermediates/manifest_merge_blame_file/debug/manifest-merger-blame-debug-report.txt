@@ -54,48 +54,47 @@
 32-->C:\Users\a\Desktop\Priyanka_AppLocum\app\src\main\AndroidManifest.xml:25:9-52
 33        android:supportsRtl="true"
 33-->C:\Users\a\Desktop\Priyanka_AppLocum\app\src\main\AndroidManifest.xml:26:9-35
-34        android:testOnly="true"
-35        android:theme="@style/AppTheme" >
-35-->C:\Users\a\Desktop\Priyanka_AppLocum\app\src\main\AndroidManifest.xml:27:9-40
-36        <activity android:name="com.priyanka.patel.activities.ImageDetailActivity" />
-36-->C:\Users\a\Desktop\Priyanka_AppLocum\app\src\main\AndroidManifest.xml:28:9-67
-36-->C:\Users\a\Desktop\Priyanka_AppLocum\app\src\main\AndroidManifest.xml:28:19-65
-37        <activity
-37-->C:\Users\a\Desktop\Priyanka_AppLocum\app\src\main\AndroidManifest.xml:29:9-32:15
-38            android:name="com.priyanka.patel.activities.LoginActivity"
-38-->C:\Users\a\Desktop\Priyanka_AppLocum\app\src\main\AndroidManifest.xml:29:19-59
-39            android:configChanges="keyboardHidden|orientation|screenSize"
-39-->C:\Users\a\Desktop\Priyanka_AppLocum\app\src\main\AndroidManifest.xml:31:13-74
-40            android:windowSoftInputMode="adjustPan|stateHidden" />
-40-->C:\Users\a\Desktop\Priyanka_AppLocum\app\src\main\AndroidManifest.xml:30:13-64
-41        <activity android:name="com.priyanka.patel.activities.MainActivity" />
-41-->C:\Users\a\Desktop\Priyanka_AppLocum\app\src\main\AndroidManifest.xml:33:9-61
-41-->C:\Users\a\Desktop\Priyanka_AppLocum\app\src\main\AndroidManifest.xml:33:19-58
-42        <activity android:name="com.priyanka.patel.activities.SplashActivity" >
-42-->C:\Users\a\Desktop\Priyanka_AppLocum\app\src\main\AndroidManifest.xml:34:9-40:20
-42-->C:\Users\a\Desktop\Priyanka_AppLocum\app\src\main\AndroidManifest.xml:34:19-60
-43            <intent-filter>
-43-->C:\Users\a\Desktop\Priyanka_AppLocum\app\src\main\AndroidManifest.xml:35:13-39:29
-44                <action android:name="android.intent.action.MAIN" />
-44-->C:\Users\a\Desktop\Priyanka_AppLocum\app\src\main\AndroidManifest.xml:36:17-69
-44-->C:\Users\a\Desktop\Priyanka_AppLocum\app\src\main\AndroidManifest.xml:36:25-66
-45
-46                <category android:name="android.intent.category.LAUNCHER" />
-46-->C:\Users\a\Desktop\Priyanka_AppLocum\app\src\main\AndroidManifest.xml:38:17-77
-46-->C:\Users\a\Desktop\Priyanka_AppLocum\app\src\main\AndroidManifest.xml:38:27-74
-47            </intent-filter>
-48        </activity>
-49
-50        <provider
-50-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\a\.gradle\caches\transforms-2\files-2.1\af297a7600656842c702b032669fc913\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:23:9-27:43
-51            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-51-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\a\.gradle\caches\transforms-2\files-2.1\af297a7600656842c702b032669fc913\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:24:13-79
-52            android:authorities="com.example.kotlindemo.lifecycle-process"
-52-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\a\.gradle\caches\transforms-2\files-2.1\af297a7600656842c702b032669fc913\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:25:13-69
-53            android:exported="false"
-53-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\a\.gradle\caches\transforms-2\files-2.1\af297a7600656842c702b032669fc913\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:26:13-37
-54            android:multiprocess="true" />
-54-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\a\.gradle\caches\transforms-2\files-2.1\af297a7600656842c702b032669fc913\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:27:13-40
-55    </application>
-56
-57</manifest>
+34        android:theme="@style/AppTheme" >
+34-->C:\Users\a\Desktop\Priyanka_AppLocum\app\src\main\AndroidManifest.xml:27:9-40
+35        <activity android:name="com.priyanka.patel.activities.ImageDetailActivity" />
+35-->C:\Users\a\Desktop\Priyanka_AppLocum\app\src\main\AndroidManifest.xml:28:9-67
+35-->C:\Users\a\Desktop\Priyanka_AppLocum\app\src\main\AndroidManifest.xml:28:19-65
+36        <activity
+36-->C:\Users\a\Desktop\Priyanka_AppLocum\app\src\main\AndroidManifest.xml:29:9-32:15
+37            android:name="com.priyanka.patel.activities.LoginActivity"
+37-->C:\Users\a\Desktop\Priyanka_AppLocum\app\src\main\AndroidManifest.xml:29:19-59
+38            android:configChanges="keyboardHidden|orientation|screenSize"
+38-->C:\Users\a\Desktop\Priyanka_AppLocum\app\src\main\AndroidManifest.xml:31:13-74
+39            android:windowSoftInputMode="adjustPan|stateHidden" />
+39-->C:\Users\a\Desktop\Priyanka_AppLocum\app\src\main\AndroidManifest.xml:30:13-64
+40        <activity android:name="com.priyanka.patel.activities.MainActivity" />
+40-->C:\Users\a\Desktop\Priyanka_AppLocum\app\src\main\AndroidManifest.xml:33:9-61
+40-->C:\Users\a\Desktop\Priyanka_AppLocum\app\src\main\AndroidManifest.xml:33:19-58
+41        <activity android:name="com.priyanka.patel.activities.SplashActivity" >
+41-->C:\Users\a\Desktop\Priyanka_AppLocum\app\src\main\AndroidManifest.xml:34:9-40:20
+41-->C:\Users\a\Desktop\Priyanka_AppLocum\app\src\main\AndroidManifest.xml:34:19-60
+42            <intent-filter>
+42-->C:\Users\a\Desktop\Priyanka_AppLocum\app\src\main\AndroidManifest.xml:35:13-39:29
+43                <action android:name="android.intent.action.MAIN" />
+43-->C:\Users\a\Desktop\Priyanka_AppLocum\app\src\main\AndroidManifest.xml:36:17-69
+43-->C:\Users\a\Desktop\Priyanka_AppLocum\app\src\main\AndroidManifest.xml:36:25-66
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->C:\Users\a\Desktop\Priyanka_AppLocum\app\src\main\AndroidManifest.xml:38:17-77
+45-->C:\Users\a\Desktop\Priyanka_AppLocum\app\src\main\AndroidManifest.xml:38:27-74
+46            </intent-filter>
+47        </activity>
+48
+49        <provider
+49-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\a\.gradle\caches\transforms-2\files-2.1\af297a7600656842c702b032669fc913\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:23:9-27:43
+50            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+50-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\a\.gradle\caches\transforms-2\files-2.1\af297a7600656842c702b032669fc913\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:24:13-79
+51            android:authorities="com.example.kotlindemo.lifecycle-process"
+51-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\a\.gradle\caches\transforms-2\files-2.1\af297a7600656842c702b032669fc913\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:25:13-69
+52            android:exported="false"
+52-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\a\.gradle\caches\transforms-2\files-2.1\af297a7600656842c702b032669fc913\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:26:13-37
+53            android:multiprocess="true" />
+53-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\a\.gradle\caches\transforms-2\files-2.1\af297a7600656842c702b032669fc913\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:27:13-40
+54    </application>
+55
+56</manifest>

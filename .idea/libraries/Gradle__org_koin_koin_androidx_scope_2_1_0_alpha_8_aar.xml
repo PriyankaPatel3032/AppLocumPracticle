@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: org.koin:koin-androidx-scope:2.1.0-alpha-8@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1334a848497715aebb3fa94e18ac7141/jetified-koin-androidx-scope-2.1.0-alpha-8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1334a848497715aebb3fa94e18ac7141/jetified-koin-androidx-scope-2.1.0-alpha-8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1334a848497715aebb3fa94e18ac7141/jetified-koin-androidx-scope-2.1.0-alpha-8/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.koin/koin-androidx-scope/2.1.0-alpha-8/9ff20066c4d06b9e791fdb79be172d3e5f571846/koin-androidx-scope-2.1.0-alpha-8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.koin/koin-androidx-scope/2.1.0-alpha-8/10568a4928852e517a9c686b970bf870abbff984/koin-androidx-scope-2.1.0-alpha-8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
