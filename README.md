@@ -3,9 +3,9 @@ Practical Task
 
 
 ### Documentation
-*Version number = 1.0
-*version code = 1
-*Android version = 29
+* Version number = 1.0
+* Version code = 1
+* Android version = 29
 
 ### Apk link
 
