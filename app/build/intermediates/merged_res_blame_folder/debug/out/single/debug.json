@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\build\\intermediates\\res\\merged\\debug\\animator_slide_fragment_horizontal_right_in.xml.flat",
+        "source": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\src\\main\\res\\animator\\slide_fragment_horizontal_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\build\\intermediates\\res\\merged\\debug\\animator_slide_fragment_horizontal_left_in.xml.flat",
+        "source": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\src\\main\\res\\animator\\slide_fragment_horizontal_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_list.xml.flat",
+        "source": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\src\\main\\res\\layout\\row_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\build\\intermediates\\res\\merged\\debug\\menu_toolbar_main_menu.xml.flat",
+        "source": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\src\\main\\res\\menu\\toolbar_main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\build\\intermediates\\res\\merged\\debug\\animator_slide_fragment_horizontal_left_out.xml.flat",
+        "source": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\src\\main\\res\\animator\\slide_fragment_horizontal_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\src\\main\\res\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\build\\intermediates\\res\\merged\\debug\\animator_slide_fragment_horizontal_right_out.xml.flat",
+        "source": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\src\\main\\res\\animator\\slide_fragment_horizontal_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\src\\main\\res\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\build\\intermediates\\res\\merged\\debug\\animator_slide_fragment_vertical_right_in.xml.flat",
+        "source": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\src\\main\\res\\animator\\slide_fragment_vertical_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_splash.png.flat",
+        "source": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\build\\intermediates\\res\\merged\\debug\\animator_slide_fragment_vertical_left_in.xml.flat",
+        "source": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\src\\main\\res\\animator\\slide_fragment_vertical_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\build\\intermediates\\res\\merged\\debug\\animator_slide_fragment_vertical_left_out.xml.flat",
+        "source": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\src\\main\\res\\animator\\slide_fragment_vertical_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_image_detail.xml.flat",
+        "source": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\src\\main\\res\\layout\\activity_image_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\build\\intermediates\\res\\merged\\debug\\animator_slide_fragment_vertical_right_out.xml.flat",
+        "source": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\src\\main\\res\\animator\\slide_fragment_vertical_right_out.xml"
+    }
+]

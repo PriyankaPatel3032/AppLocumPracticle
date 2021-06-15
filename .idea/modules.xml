@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-mvvm-coroutine.iml" filepath="$PROJECT_DIR$/.idea/modules/android-mvvm-coroutine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-mvvm-coroutine.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-mvvm-coroutine.app.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,7 @@
+<resources>
+
+
+    <string name="PREF_LOGIN">PREF_LOGIN</string>
+    <string name="IMAGE_URL">IMAGE_URL</string>
+    <string name="IMAGE_PLASH_HOLDER">IMAGE_PLASH_HOLDER</string>
+</resources>

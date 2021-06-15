@@ -1,0 +1,45 @@
+com/priyanka/patel/databinding/ActivityMainBindingImpl.java
+ com.priyanka.patel.databinding.ActivityMainBindingImpl
+com/priyanka/patel/databinding/ActivityImageDetailBinding.java
+ com.priyanka.patel.databinding.ActivityImageDetailBinding
+com/priyanka/patel/databinding/ActivityLoginBindingImpl.java
+ com.priyanka.patel.databinding.ActivityLoginBindingImpl
+ com.priyanka.patel.databinding.ActivityLoginBindingImpl$1
+ com.priyanka.patel.databinding.ActivityLoginBindingImpl$2
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/priyanka/patel/databinding/RowListBinding.java
+ com.priyanka.patel.databinding.RowListBinding
+com/priyanka/patel/models/Login/LoginUser.java
+ com.priyanka.patel.models.Login.LoginUser
+com/priyanka/patel/BuildConfig.java
+ com.priyanka.patel.BuildConfig
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/priyanka/patel/databinding/ActivityImageDetailBindingImpl.java
+ com.priyanka.patel.databinding.ActivityImageDetailBindingImpl
+com/priyanka/patel/mvvm/LoginViewModel.java
+ com.priyanka.patel.mvvm.LoginViewModel
+com/priyanka/patel/databinding/ActivityMainBinding.java
+ com.priyanka.patel.databinding.ActivityMainBinding
+com/priyanka/patel/DataBindingTriggerClass.java
+ com.priyanka.patel.DataBindingTriggerClass
+com/priyanka/patel/databinding/ActivitySplashBinding.java
+ com.priyanka.patel.databinding.ActivitySplashBinding
+com/priyanka/patel/DataBinderMapperImpl.java
+ com.priyanka.patel.DataBinderMapperImpl
+ com.priyanka.patel.DataBinderMapperImpl$InnerBrLookup
+ com.priyanka.patel.DataBinderMapperImpl$InnerLayoutIdLookup
+com/priyanka/patel/generated/callback/OnClickListener.java
+ com.priyanka.patel.generated.callback.OnClickListener
+ com.priyanka.patel.generated.callback.OnClickListener$Listener
+com/priyanka/patel/databinding/ActivityLoginBinding.java
+ com.priyanka.patel.databinding.ActivityLoginBinding
+com/priyanka/patel/databinding/RowListBindingImpl.java
+ com.priyanka.patel.databinding.RowListBindingImpl
+com/priyanka/patel/BR.java
+ com.priyanka.patel.BR
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/priyanka/patel/databinding/ActivitySplashBindingImpl.java
+ com.priyanka.patel.databinding.ActivitySplashBindingImpl

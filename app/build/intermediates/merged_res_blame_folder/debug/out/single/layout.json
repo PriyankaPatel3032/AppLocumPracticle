@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_list.xml",
+        "source": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\src\\main\\res\\layout\\row_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_image_detail.xml",
+        "source": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\src\\main\\res\\layout\\activity_image_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\a\\Desktop\\Priyanka_AppLocum\\app\\src\\main\\res\\layout\\activity_login.xml"
+    }
+]

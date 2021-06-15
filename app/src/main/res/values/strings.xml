@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Priyanka Patel Practical Task</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="check_connection">Please check your internet connection</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="settings" />
+    <string name="str_email">Enter email</string>
+    <string name="str_valid_email_enter">Please enter valid email</string>
+    <string name="str_proper_email_enter">Please enter proper email</string>
+    <string name="str_proper_password_enter">Please enter proper password</string>
+    <string name="str_email_enter">Please enter email</string>
+
+    <string name="str_enter_password">Enter password</string>
+    <string name="str_pls_enter_password">Please enter password</string>
+    <string name="str_vaid_password">Enter at least 6 Digit password</string>
+
+
+</resources>
