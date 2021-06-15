@@ -1,0 +1,2 @@
+# AppLocumPracticle
+Practical Task
